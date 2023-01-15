@@ -19,6 +19,7 @@
 - React 
 - React Hooks (useState, useContext)
 - [react router](https://www.npmjs.com/package/react-router-dom)
+- Responsive
 
 
 ## About Me
